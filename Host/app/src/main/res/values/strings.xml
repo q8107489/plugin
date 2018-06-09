@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PluginHost</string>
+    <!--<string name="app_name">PluginHost</string>-->
+    <string name="app_name">插件化</string>
 </resources>
